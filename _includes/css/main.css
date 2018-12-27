@@ -464,6 +464,8 @@ header {
     min-height: 25rem;
     width: 100%;
     overflow: hidden;
+    background-image: url('img/landing.jpg');
+
 }
 
 header video {
