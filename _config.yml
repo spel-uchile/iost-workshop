@@ -19,7 +19,7 @@ bing_verify:
 # - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
-contact: static
+contact: 
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
@@ -34,10 +34,10 @@ color:
 
 # Footer settings
 footer:
-  copyright: FCFM, University of Chile
-  location: Santiago, Chile
-  social: SPEL_UCHILE
-  credits: SPEL
+  copyright: University of Chile
+  location:
+  social: Contact us!
+  credits:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -50,11 +50,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Beauchef 850.
-  - line: Santiago, RM, Chile.
+  - line: #Beauchef 850.
+  - line: #Santiago, RM, Chile.
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: #'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
@@ -63,7 +63,10 @@ permalink: pretty
 collaborate:
   - name: University of Chile
     logo: uchile.png
+    site: http://ingenieria.uchile.cl/english
   - name: Gomspace
     logo: gomspace.png
+    site: https://gomspace.com/home.aspx
   - name: RocketLab
     logo: rocketlab.png
+    site: https://www.rocketlabusa.com/
