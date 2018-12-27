@@ -59,6 +59,8 @@ credits: #'Freelancer is a free to use, open source Bootstrap theme created by <
 # Build settings
 markdown: kramdown
 permalink: pretty
+#plugins:
+#  - jekyll-twitter-plugin
 
 collaborate:
   - name: University of Chile
