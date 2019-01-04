@@ -5,5 +5,5 @@ date: 2018-08-07
 img: smallsat2018.jpg
 alt: PlantSat Kick-Off at SmallSat 2018
 category: news
-head: The multidisciplinary team composed by the researcher Matthew Lehmitz, the company Gomspace, the University of Chile, and the company RocketLab met in the last SmallSat conference to start working in this pioneer project.
+head: The multidisciplinary team composed by the researcher Matthew Lehmitz, the company GomSpace, the University of Chile, and the company Rocket Lab met in the last SmallSat conference to start working in this pioneer project.
 ---
