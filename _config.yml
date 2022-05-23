@@ -63,12 +63,12 @@ permalink: pretty
 #  - jekyll-twitter-plugin
 
 collaborate:
-  - name: Gomspace
-    logo: gomspace.png
-    site: https://gomspace.com/home.aspx
   - name: University of Chile
     logo: uchile.png
     site: http://ingenieria.uchile.cl/english
-  - name: RocketLab
-    logo: rocketlab.png
-    site: https://www.rocketlabusa.com/
+  - name: D-Orbit
+    logo: Dorbit-logo.png
+    site: https://www.dorbit.space/
+  - name: Gomspace
+    logo: gomspace.png
+    site: https://gomspace.com/home.aspx
