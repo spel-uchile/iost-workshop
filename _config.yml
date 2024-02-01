@@ -3,10 +3,10 @@ title: 1st IoST Workshop
 email: spel@ing.uchile.cl
 url: https://spel-uchile.github.io/iost-workshop
 baseurl:
-description: "Growing in space simulating Mars conditions"
-keywords: "cubesat, nanosatellite, satellite, mars, plant, space"
-skills: "Growing a plant in space simulating Mars conditions"
-meta_author: University of Chile, GomSpace, RocketLabs
+description: "Building Bridges for a Global Network"
+keywords: "cubesat, nanosatellite, satellite, iot, internet of things, space"
+skills: "Building Bridges for a Global Network"
+meta_author: University of Chile, FCFM
 
 
 # Google webmaster tools
@@ -50,8 +50,9 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: #Beauchef 850.
-  - line: #Santiago, RM, Chile.
+  - line: Universidad de Chile, Campus Beauchef
+  - line: Beauchef 850.
+  - line: Santiago, RM, Chile.
 
 # Credits content
 credits: #'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
@@ -65,10 +66,10 @@ permalink: pretty
 collaborate:
   - name: University of Chile
     logo: uchile.png
-    site: http://ingenieria.uchile.cl/english
-  - name: D-Orbit
-    logo: Dorbit-logo.png
-    site: https://www.dorbit.space/
-  - name: Gomspace
-    logo: gomspace.png
-    site: https://gomspace.com/home.aspx
+    site: https://uchile.cl/
+  - name: FCFM
+    logo: fcfm.png
+    site: https://ingenieria.uchile.cl/
+  - name: SPEL
+    logo: spel.png
+    site: https://spel.cl/
