@@ -1,7 +1,7 @@
 # Site settings
 title: PlantSat
 email: spel@ing.uchile.cl
-url: https://spel-uchile.github.io/plantsat
+url: https://spel-uchile.github.io/plantasat
 baseurl:
 description: "Growing in space simulating Mars conditions"
 keywords: "cubesat, nanosatellite, satellite, mars, plant, space"
