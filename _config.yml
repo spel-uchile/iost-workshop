@@ -1,9 +1,9 @@
 # Site settings
 title: PlantSat
 email: spel@ing.uchile.cl
-url: https://spel-uchile.github.io/plantasat
+url: https://spel-uchile.github.io/iost-workshop
 baseurl:
-description: "Growing a plant in space simulating Mars conditions"
+description: "Growing in space simulating Mars conditions"
 keywords: "cubesat, nanosatellite, satellite, mars, plant, space"
 skills: "Growing a plant in space simulating Mars conditions"
 meta_author: University of Chile, GomSpace, RocketLabs
