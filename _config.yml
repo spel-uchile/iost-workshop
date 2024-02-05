@@ -1,12 +1,12 @@
 # Site settings
-title: 1st IoST Workshop
+title: "1st IoST Workshop"
 email: spel@ing.uchile.cl
 url: https://spel-uchile.github.io/iost-workshop
 baseurl:
 description: "Building Bridges for a Global Network"
 keywords: "cubesat, nanosatellite, satellite, iot, internet of things, space"
 skills: "Building Bridges for a Global Network"
-meta_author: University of Chile, FCFM
+meta_author: University of Chile, SPEL
 
 
 # Google webmaster tools
