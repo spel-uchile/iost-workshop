@@ -6,8 +6,11 @@ Build withh Jekyll theme based on [Jekyll Freelancer bootstrap theme ](https://g
 ## Test locally
 
 ### Setup jekyll
+
+```
 gem install jekyll bundler
 bundle config set --local path '/home/carlos/.gem'
 bundle install
 bundle add webrick json
 jekyll serve --livereload
+```
