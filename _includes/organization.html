@@ -10,9 +10,9 @@
             </div>
             <div class="row">
                 {% for company in site.collaborate %}
-                    <div class="col-sm-4 portfolio-item">
+                    <div class="col-lg-4 portfolio-item text-center">
                         <a href="{{ company.site }}" class="portfolio-link">
-                            <img src="img/logo/{{ company.logo }}" class="img-responsive"  width="200px" alt="{{ company.name }}">
+                            <img src="img/logo/{{ company.logo }}" class="img-centered"  height="150px" alt="{{ company.name }}">
                         </a>
                     </div>
                 {% endfor %}

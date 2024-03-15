@@ -65,11 +65,11 @@ permalink: pretty
 
 collaborate:
   - name: University of Chile
-    logo: uchile.png
+    logo: logo_uchile_h200.png
     site: https://uchile.cl/
   - name: FCFM
-    logo: fcfm.png
+    logo: logo_fcfm_h200.png
     site: https://ingenieria.uchile.cl/
   - name: SPEL
-    logo: spel.png
+    logo: logo_spel_h200.png
     site: https://spel.cl/
